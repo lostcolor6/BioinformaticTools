@@ -1,0 +1,5 @@
+Patient_ID;Status;Sex;Fastq_R1;Fastq_R2
+P001;0;XX;p001_normal_R1.fastq.gz;p001_normal_R2.fastq.gz
+P001;1;XX;p001_tumor_R1.fastq.gz;p001_tumor_R2.fastq.gz
+P003;1;NA;p003_R1.fastq.gz;p003_R2.fastq.gz
+P004;0;XY;p004_R1.fastq.gz;p004_R2.fastq.gz

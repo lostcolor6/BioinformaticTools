@@ -1,0 +1,5 @@
++
+TESTneue Headerline0neue HeaderlineXXneue Headerlinep001_normal_R1.fastq.gzneue Headerlinep001_normal_R2.fastq.gz
+P001neue Headerline1neue HeaderlineXXneue Headerlinep001_tumor_R1.fastq.gzneue Headerlinep001_tumor_R2.fastq.gz
+P003neue Headerline1neue HeaderlineNAneue Headerlinep003_R1.fastq.gzneue Headerlinep003_R2.fastq.gz
+P004neue Headerline0neue HeaderlineXYneue Headerlinep004_R1.fastq.gzneue Headerlinep004_R2.fastq.gz
